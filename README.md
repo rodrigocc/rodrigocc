@@ -17,7 +17,7 @@
 </p>
     
     
-## 🚀 HOBBYS
+## 🚀 LifeStyle and Hobbys
     
     
 
