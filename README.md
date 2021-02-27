@@ -18,6 +18,8 @@
     
     
 ## 🚀 LifeStyle and Hobbys
+
+<code><img height="32" src="https://www.flaticon.com/svg/vstatic/svg/2097/2097459.svg?token=exp=1614436203~hmac=6310a8be7ace53e16ad77ce55110a1c8" alt="guitar"/></code>
     
     
 
