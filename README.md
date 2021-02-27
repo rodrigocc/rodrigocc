@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <h2 align="left">💜 Hi, my name is <strong>Rodrigo Araujo</strong></h2>
-🔭 I'm a Mobile Developer.
+🔭 I'm a front-end Mobile Developer.
 
 ## 🚀 My Skills
 
