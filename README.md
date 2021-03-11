@@ -19,7 +19,7 @@
     
 ## 🌅 LifeStyle and Hobbies
 
-<code><img height="32" src="https://www.flaticon.com/svg/vstatic/svg/2097/2097459.svg?token=exp=1614436203~hmac=6310a8be7ace53e16ad77ce55110a1c8" alt="guitar"/></code>
+<code><img height="32" src="https://www.flaticon.com/svg/vstatic/svg/3655/3655239.svg?token=exp=1615477113~hmac=50c7b1bda81fd4fdc00518bd5cfd460c"/></code>
     
     
 
