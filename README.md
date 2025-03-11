@@ -2,10 +2,10 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+🧑‍💻 Currently working with Mobile Development Flutter
+🌱 Interested in IOS development.
+💓 Passionate with problem solving and daily routines automation.
+✍️ Currently researching Design Patterns, IOS development , Flutter Architechitures.\.
 
 ## Minhas Skills
 
