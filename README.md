@@ -27,6 +27,7 @@ Currently researching Design Patterns, IOS development , Flutter Architechitures
 
 
 **Banco de Dados**
+
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
