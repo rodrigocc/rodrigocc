@@ -55,11 +55,6 @@ Currently researching Design Patterns, IOS development , Flutter Architechitures
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigocc&theme=dracula&show_icons=true" />
 </a>
 
-## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-rodrigoasidev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigoasidev@gmail.com)](mailto:rodrigoasidev@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/rodrigocc?label=follow&style=social)](github.com/rodrigocc)
 ### Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
@@ -102,6 +97,12 @@ Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift`
 Projetos em destaque: [App](https://nubank.com.br/)
 <br/>
 <br/>
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Gmail Badge](https://img.shields.io/badge/-rodrigoasidev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigoasidev@gmail.com)](mailto:rodrigoasidev@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/rodrigocc?label=follow&style=social)](github.com/rodrigocc)
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
