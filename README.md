@@ -83,12 +83,12 @@ Linguagens & Tecnologias: `Dart`, `Flutter Web`, `Flutter` , `Azure DevOps`,`Cle
 Projetos em destaque: [Ignite](), [Bootcamp]()
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://cdn.prod.website-files.com/60c2442d9e9ea568ba705c76/60c2442d9e9ea59885705ccd_logo-white.webp"/>](https://encontreumnerd.com.br/)
 
-**Software Engineer** \
-[**Nubank**](https://nubank.com.br/) • Contract \
-Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Projetos em destaque: [App](https://nubank.com.br/)
+**Mobile Software Engineer** \
+[**Eunerd**](https://encontreumnerd.com.br/) • Contract \
+Linguagens & Tecnologias: `Flutter`, `Dart`, `Clean Architechiture`, `Kotlin`, `Bloc` \
+Projetos em destaque: [App](https://encontreumnerd.com.br/)
 <br/>
 <br/>
 
