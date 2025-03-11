@@ -48,6 +48,7 @@ Currently researching Design Patterns, IOS development , Flutter Tips.\.
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=Azure)
+![Fastlane](https://img.shields.io/badge/-Fastlane-333333?style=flat&logo=Fastlane)
 
 **Ferramentas de desenvolvimento**
 
