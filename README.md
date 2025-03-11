@@ -67,11 +67,11 @@ Currently researching Design Patterns, IOS development , Flutter Tips.\.
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.marlabs.com/wp-content/uploads/2023/05/Logo-3-1.png"/>](https://www.spacex.com/)
 
 **Mobile Developer Analyst** \
-[**MarLabs Brasil**](https://www.spacex.com/) • Full-time \
-Linguagens & Tecnologias: `Flutter`, `Dart`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
+[**MarLabs Brasil**](https://www.marlabs.com/pt-br/) • Full-time \
+Linguagens & Tecnologias: `Flutter`, `Dart`, `Clean Architechiture`, `Bloc`, `Azure`,\
 Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
 
