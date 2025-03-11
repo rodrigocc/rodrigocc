@@ -21,6 +21,13 @@ Currently researching Design Patterns, IOS development , Flutter Tips.\.
 ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin)
 
+
+**Linguagens de Programação**
+
+![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+
 **Utilidades**
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
