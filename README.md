@@ -18,7 +18,8 @@ Currently researching Design Patterns, IOS development , Flutter Architechitures
 
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-
+![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift)
+![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin)
 
 **Utilidades**
 
