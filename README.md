@@ -75,11 +75,11 @@ Linguagens & Tecnologias: `Flutter`, `Dart`, `Clean Architechiture`, `Bloc`, `Az
 Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://frameworkdigital.com.br/wp-content/uploads/2024/10/logo-framework-mobile.svg"/>](https://frameworkdigital.com.br)
 
-**Frot-end Developer (Jr)** \
-[**Rocketseat**](https://rocketseat.com.br/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
+**Mobile Software Enginner** \
+[**Framework Digital**](https://rocketseat.com.br/) • Contract \
+Linguagens & Tecnologias: `Dart`, `Flutter Web`, `Flutter` , `Azure DevOps`,`Clean Architechiture`, `Bloc`\
 Projetos em destaque: [Ignite](), [Bootcamp]()
 <br/>
 
