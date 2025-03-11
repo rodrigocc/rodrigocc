@@ -92,11 +92,11 @@ Linguagens & Tecnologias: `Flutter`, `Dart`, `Clean Architechiture`, `Kotlin`, `
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-araujos/)](https://www.linkedin.com/in/rodrigo-araujos/)
+[![Linkedin](https://img.shields.io/badge/-rodrigoaraujo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-araujos/)](https://www.linkedin.com/in/rodrigo-araujos/)
 [![Gmail Badge](https://img.shields.io/badge/-rodrigoasidev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigoasidev@gmail.com)](mailto:rodrigoasidev@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/rodrigocc?label=follow&style=social)](github.com/rodrigocc)
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/rodrigo-araujos/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 <h2 align="left">🌟 Contact me</h2>
 <h3 align="left">📧 rodrigoasilvacc@gmail.com</h3>
