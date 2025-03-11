@@ -72,43 +72,27 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Mobile Developer Analyst** \
 [**MarLabs Brasil**](https://www.marlabs.com/pt-br/) • Full-time \
 Linguagens & Tecnologias: `Flutter`, `Dart`, `Clean Architechiture`, `Bloc`, `Azure`,\
-Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://frameworkdigital.com.br/wp-content/uploads/2024/10/logo-framework-mobile.svg"/>](https://frameworkdigital.com.br)
 
 **Mobile Software Enginner** \
-[**Framework Digital**](https://rocketseat.com.br/) • Contract \
+[**Framework Digital**](https://rocketseat.com.br/) • Full-time \
 Linguagens & Tecnologias: `Dart`, `Flutter Web`, `Flutter` , `Azure DevOps`,`Clean Architechiture`, `Bloc`\
-Projetos em destaque: [Ignite](), [Bootcamp]()
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Nubank" src="https://cdn.prod.website-files.com/60c2442d9e9ea568ba705c76/60c2442d9e9ea59885705ccd_logo-white.webp"/>](https://encontreumnerd.com.br/)
 
 **Mobile Software Engineer** \
-[**Eunerd**](https://encontreumnerd.com.br/) • Contract \
+[**Eunerd**](https://encontreumnerd.com.br/) • Full-time \
 Linguagens & Tecnologias: `Flutter`, `Dart`, `Clean Architechiture`, `Kotlin`, `Bloc` \
-Projetos em destaque: [App](https://encontreumnerd.com.br/)
 <br/>
 <br/>
 
-**Software Engineer** \
-[**Nubank**](https://nubank.com.br/) • Contract \
-Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Projetos em destaque: [App](https://nubank.com.br/)
-<br/>
-<br/>
-
-**Software Engineer** \
-[**Nubank**](https://nubank.com.br/) • Contract \
-Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Projetos em destaque: [App](https://nubank.com.br/)
-<br/>
-<br/>
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-araujos/)](https://www.linkedin.com/in/rodrigo-araujos/)
 [![Gmail Badge](https://img.shields.io/badge/-rodrigoasidev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigoasidev@gmail.com)](mailto:rodrigoasidev@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/rodrigocc?label=follow&style=social)](github.com/rodrigocc)
 
