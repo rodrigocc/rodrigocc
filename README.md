@@ -51,9 +51,6 @@ Currently researching Design Patterns, IOS development , Flutter Architechitures
 
 <br/>
 
-<a href="https://github.com/rodrigocc" title="Perfil do Rodrigo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigocc&theme=dracula&show_icons=true" />
-</a>
 
 ### Experiência de trabalho
 
