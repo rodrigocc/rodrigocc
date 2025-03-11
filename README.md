@@ -46,9 +46,11 @@ Currently researching Design Patterns, IOS development , Flutter Tips.\.
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
+![CodeMagic](https://img.shields.io/badge/-CodeMagic-333333?style=flat&logo=CodeMagic)
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=Azure)
 ![Fastlane](https://img.shields.io/badge/-Fastlane-333333?style=flat&logo=Fastlane)
+![Bitrise](https://img.shields.io/badge/-Fastlane-333333?style=flat&logo=Bitrise)
+
 
 **Ferramentas de desenvolvimento**
 
