@@ -3,14 +3,19 @@
 
 ## Sobre mim
 
-🧑‍💻 Currently working with Mobile Development Flutter
-🌱 Interested in IOS development.
-💓 Passionate with problem solving and daily routines automation.
-✍️ Currently researching Design Patterns, IOS development , Flutter Architechitures.\.
+🧑‍💻 
+Currently working with Mobile Development Flutter
+🌱 
+Interested in IOS development.
+💓 
+Passionate with problem solving and daily routines automation.
+✍️ 
+Currently researching Design Patterns, IOS development , Flutter Architechitures.\.
 
 ## Minhas Skills
 
 **Desenvolvimento**
+
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 
