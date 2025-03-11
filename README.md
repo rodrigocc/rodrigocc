@@ -26,7 +26,7 @@ Currently researching Design Patterns, IOS development , Flutter Tips.\.
 
 ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 
 **Utilidades**
 
@@ -47,6 +47,7 @@ Currently researching Design Patterns, IOS development , Flutter Tips.\.
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=Azure)
 
 **Ferramentas de desenvolvimento**
 
