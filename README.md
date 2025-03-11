@@ -10,7 +10,7 @@ Interested in IOS development.
 💓 
 Passionate with problem solving and daily routines automation.
 ✍️ 
-Currently researching Design Patterns, IOS development , Flutter Architechitures.\.
+Currently researching Design Patterns, IOS development , Flutter Tips.\.
 
 ## Minhas Skills
 
